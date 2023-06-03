@@ -1,10 +1,16 @@
 import express from 'express';
-import { Application } from 'express';
+import cors from 'cors';
+import { Application, Request, Response } from 'express';
 
 const app: Application = express()
 
-app.get('/', (req, res) => {
-    res.send('Hello World!')
+app.use(cors());
+app.use(express.json());
+
+app.use(express.urlencoded({ extended: true }));
+
+app.get('/', (req: Request, res: Response) => {
+    res.send('Working Successfully')
 })
 
 export default app;
