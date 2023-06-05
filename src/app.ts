@@ -8,13 +8,9 @@ const app: Application = express()
 app.use(cors())
 app.use(express.json())
 
-app.use(
-  express.urlencoded({
-    extended: true,
-  })
-)
+app.use(express.urlencoded({ extended: true }))
 
-// Routes
+//Application Routes
 app.use('/api/v1/users/', userRouter)
 
 app.get('/', async (req: Request, res: Response) => {

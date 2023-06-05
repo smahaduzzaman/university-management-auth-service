@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\successes\\.ec3d4c5700d27d3d86838364de30fff535d1c5d1-audit.json",
+    "files": [
+        {
+            "date": 1685979634439,
+            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-05-21-error.log",
+            "hash": "c8c9682cad60b09048e3bb88c81e6526c788d2dea4811601a5a800bf6c91b0ee"
+        }
+    ],
+    "hashType": "sha256"
+}
