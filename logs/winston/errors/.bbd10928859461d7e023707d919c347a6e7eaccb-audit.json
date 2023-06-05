@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\.bbd10928859461d7e023707d919c347a6e7eaccb-audit.json",
+    "files": [
+        {
+            "date": 1685979665721,
+            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-05-21-error.log",
+            "hash": "6589b4a78efdd0b23b27f992bbfde8c4cb4907d7d4867375ebfd78141f48fc55"
+        },
+        {
+            "date": 1685980802608,
+            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-05-22-error.log",
+            "hash": "81a99b62df8d00ee0193486de0d7be77f9842fa3bb25e328996f44c4d8d646d0"
+        },
+        {
+            "date": 1685984703659,
+            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-05-23-error.log",
+            "hash": "56c6a1e3c6cc6a0bac7db2abb185dd85ec0da5ba5914ac39c0908b4f74b64188"
+        }
+    ],
+    "hashType": "sha256"
+}

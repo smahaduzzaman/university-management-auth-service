@@ -1,0 +1,4 @@
+[right meow!] error: DB Connection Failed:  The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. 6/5/2023 10:00:02 PM
+[right meow!] error: DB Connection Failed:  The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. 6/5/2023 10:04:51 PM
+[right meow!] error: DB Connection Failed:  The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. 6/5/2023 10:05:03 PM
+[right meow!] error: DB Connection Failed:  The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. 6/5/2023 10:05:16 PM
