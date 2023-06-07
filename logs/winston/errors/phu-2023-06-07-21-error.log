@@ -1,0 +1,12 @@
+[right meow!] error: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "Role is required"
+  }
+] 6/7/2023 9:57:44 PM
