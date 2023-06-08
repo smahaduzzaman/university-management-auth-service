@@ -1,70 +1,70 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\.bbd10928859461d7e023707d919c347a6e7eaccb-audit.json",
+  "files": [
+    {
+      "date": 1685979665721,
+      "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-05-21-error.log",
+      "hash": "6589b4a78efdd0b23b27f992bbfde8c4cb4907d7d4867375ebfd78141f48fc55"
     },
-    "auditLog": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\.bbd10928859461d7e023707d919c347a6e7eaccb-audit.json",
-    "files": [
-        {
-            "date": 1685979665721,
-            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-05-21-error.log",
-            "hash": "6589b4a78efdd0b23b27f992bbfde8c4cb4907d7d4867375ebfd78141f48fc55"
-        },
-        {
-            "date": 1685980802608,
-            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-05-22-error.log",
-            "hash": "81a99b62df8d00ee0193486de0d7be77f9842fa3bb25e328996f44c4d8d646d0"
-        },
-        {
-            "date": 1685984703659,
-            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-05-23-error.log",
-            "hash": "56c6a1e3c6cc6a0bac7db2abb185dd85ec0da5ba5914ac39c0908b4f74b64188"
-        },
-        {
-            "date": 1685988294514,
-            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-06-00-error.log",
-            "hash": "36888e6068a31b0dd03381bd2ca13c6eab5108e6bc94f91941560c4318e1f5d4"
-        },
-        {
-            "date": 1686078761492,
-            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-07-01-error.log",
-            "hash": "357f7956c320f32ae73f53177ab93e1675a315534acdc508a91b22d3b62b31fa"
-        },
-        {
-            "date": 1686081706188,
-            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-07-02-error.log",
-            "hash": "e103f6e5bd849be87a71981800e5bddd3c0d9d661031cd0976db38d728ef1fc0"
-        },
-        {
-            "date": 1686145900402,
-            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-07-19-error.log",
-            "hash": "9dfea26756b03e66ccb793d86eee190ba3846a22e507c3c63987e5995b712e7a"
-        },
-        {
-            "date": 1686147276983,
-            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-07-20-error.log",
-            "hash": "308233a94ac717f896f6bcec33a7c5f5dc2302b47b9e76b895a7162fdecc0eb3"
-        },
-        {
-            "date": 1686151672424,
-            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-07-21-error.log",
-            "hash": "16642e2bc3ca43dc0827a3f9e032c5eaa1b953a447c9b558b8fc4eb154a5b07f"
-        },
-        {
-            "date": 1686153777220,
-            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-07-22-error.log",
-            "hash": "8c51bc85f2696d85d93f75aca283fdb610e9ad97252434de3fadeb2604e73826"
-        },
-        {
-            "date": 1686161803087,
-            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-08-00-error.log",
-            "hash": "056548514c270c3f5d116d755e87ecee5c70d3136f235892f80f11723312b26f"
-        },
-        {
-            "date": 1686248748345,
-            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-00-error.log",
-            "hash": "c081f85ec15abfa117969557f120f12fba98cafc1b861552fbfb86dc3d5a6130"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1685980802608,
+      "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-05-22-error.log",
+      "hash": "81a99b62df8d00ee0193486de0d7be77f9842fa3bb25e328996f44c4d8d646d0"
+    },
+    {
+      "date": 1685984703659,
+      "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-05-23-error.log",
+      "hash": "56c6a1e3c6cc6a0bac7db2abb185dd85ec0da5ba5914ac39c0908b4f74b64188"
+    },
+    {
+      "date": 1685988294514,
+      "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-06-00-error.log",
+      "hash": "36888e6068a31b0dd03381bd2ca13c6eab5108e6bc94f91941560c4318e1f5d4"
+    },
+    {
+      "date": 1686078761492,
+      "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-07-01-error.log",
+      "hash": "357f7956c320f32ae73f53177ab93e1675a315534acdc508a91b22d3b62b31fa"
+    },
+    {
+      "date": 1686081706188,
+      "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-07-02-error.log",
+      "hash": "e103f6e5bd849be87a71981800e5bddd3c0d9d661031cd0976db38d728ef1fc0"
+    },
+    {
+      "date": 1686145900402,
+      "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-07-19-error.log",
+      "hash": "9dfea26756b03e66ccb793d86eee190ba3846a22e507c3c63987e5995b712e7a"
+    },
+    {
+      "date": 1686147276983,
+      "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-07-20-error.log",
+      "hash": "308233a94ac717f896f6bcec33a7c5f5dc2302b47b9e76b895a7162fdecc0eb3"
+    },
+    {
+      "date": 1686151672424,
+      "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-07-21-error.log",
+      "hash": "16642e2bc3ca43dc0827a3f9e032c5eaa1b953a447c9b558b8fc4eb154a5b07f"
+    },
+    {
+      "date": 1686153777220,
+      "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-07-22-error.log",
+      "hash": "8c51bc85f2696d85d93f75aca283fdb610e9ad97252434de3fadeb2604e73826"
+    },
+    {
+      "date": 1686161803087,
+      "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-08-00-error.log",
+      "hash": "056548514c270c3f5d116d755e87ecee5c70d3136f235892f80f11723312b26f"
+    },
+    {
+      "date": 1686248748345,
+      "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-00-error.log",
+      "hash": "c081f85ec15abfa117969557f120f12fba98cafc1b861552fbfb86dc3d5a6130"
+    }
+  ],
+  "hashType": "sha256"
 }
