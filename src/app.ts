@@ -4,6 +4,7 @@ import { Application, Request, Response } from 'express';
 import { UserRoutes } from './app/modules/user/user.route';
 import globalErrorhandler from './app/middlewares/globalErrorHandler';
 // import ApiError from './errors/ApiError'
+import { AcademicSemesterRoute } from './app/modules/academicSemister/academicSemester.route';
 
 const app: Application = express();
 
@@ -14,6 +15,7 @@ app.use(express.urlencoded({ extended: true }));
 
 //Application Routes
 app.use('/api/v1/users/', UserRoutes);
+app.use('/api/v1/academic-semesters/', AcademicSemesterRoute);
 
 app.get('/', async (req: Request, res: Response, next: NextFunction) => {
   //   Promise.reject(new Error('Unhandled Promise Rejection'))
