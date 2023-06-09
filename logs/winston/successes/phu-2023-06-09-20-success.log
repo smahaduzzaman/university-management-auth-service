@@ -3,82 +3,110 @@
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:25:56.325Z'
+  timestamp: '2023-06-09T14:14:00.555Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:25:56.579Z'
+  timestamp: '2023-06-09T14:14:00.676Z'
 }
 {
   message: 'Database Connection Successful',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:32:05.169Z'
+  timestamp: '2023-06-09T14:37:22.641Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:32:05.208Z'
+  timestamp: '2023-06-09T14:37:22.686Z'
 }
 {
   message: 'Database Connection Successful',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:34:27.448Z'
+  timestamp: '2023-06-09T14:39:18.668Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:34:27.492Z'
+  timestamp: '2023-06-09T14:39:18.716Z'
 }
 {
   message: 'Database Connection Successful',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:42:05.552Z'
+  timestamp: '2023-06-09T14:41:54.124Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:42:05.585Z'
+  timestamp: '2023-06-09T14:41:54.166Z'
 }
 {
   message: 'Database Connection Successful',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:57:53.397Z'
+  timestamp: '2023-06-09T14:42:33.473Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:57:53.445Z'
+  timestamp: '2023-06-09T14:42:33.523Z'
 }
 {
   message: 'Database Connection Successful',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:59:31.706Z'
+  timestamp: '2023-06-09T14:43:49.397Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:59:31.760Z'
+  timestamp: '2023-06-09T14:43:49.437Z'
+}
+{
+  message: 'Database Connection Successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-09T14:45:08.413Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-09T14:45:08.460Z'
+}
+{
+  message: 'Database Connection Successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-09T14:50:27.866Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-09T14:50:27.906Z'
 }

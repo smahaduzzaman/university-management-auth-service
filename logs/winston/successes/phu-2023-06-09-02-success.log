@@ -3,82 +3,68 @@
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:25:56.325Z'
+  timestamp: '2023-06-08T20:04:42.504Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:25:56.579Z'
+  timestamp: '2023-06-08T20:04:42.551Z'
 }
 {
   message: 'Database Connection Successful',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:32:05.169Z'
+  timestamp: '2023-06-08T20:22:11.046Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:32:05.208Z'
+  timestamp: '2023-06-08T20:22:11.093Z'
 }
 {
   message: 'Database Connection Successful',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:34:27.448Z'
+  timestamp: '2023-06-08T20:27:23.618Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:34:27.492Z'
+  timestamp: '2023-06-08T20:27:23.660Z'
 }
 {
   message: 'Database Connection Successful',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:42:05.552Z'
+  timestamp: '2023-06-08T20:29:16.301Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:42:05.585Z'
+  timestamp: '2023-06-08T20:29:16.347Z'
 }
 {
   message: 'Database Connection Successful',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:57:53.397Z'
+  timestamp: '2023-06-08T20:33:25.808Z'
 }
 {
   message: 'Application is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-06-08T18:57:53.445Z'
-}
-{
-  message: 'Database Connection Successful',
-  level: 'info',
-  service: 'user-service',
-  label: 'right meow!',
-  timestamp: '2023-06-08T18:59:31.706Z'
-}
-{
-  message: 'Application is listening on port 5000',
-  level: 'info',
-  service: 'user-service',
-  label: 'right meow!',
-  timestamp: '2023-06-08T18:59:31.760Z'
+  timestamp: '2023-06-08T20:33:25.865Z'
 }

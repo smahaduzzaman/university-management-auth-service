@@ -1,0 +1,28 @@
+{
+  message: 'Database Connection Successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-09T11:03:51.085Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-09T11:03:51.118Z'
+}
+{
+  message: 'Database Connection Successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-09T11:04:39.113Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-09T11:04:39.151Z'
+}
