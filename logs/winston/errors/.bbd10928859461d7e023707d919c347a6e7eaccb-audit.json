@@ -89,6 +89,16 @@
             "date": 1686320033452,
             "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-20-error.log",
             "hash": "4b8221219f5a9b52ecce9e5b9ce3c2fe333bf003a5a7ed7be85ba61ff075c7e0"
+        },
+        {
+            "date": 1686333184533,
+            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-23-error.log",
+            "hash": "ad5cbd9c04ac347225135b11992efc66eba2e8588e87688027107204bdb1e597"
+        },
+        {
+            "date": 1686382399829,
+            "name": "D:\\Apollo-PH-Next-Level-Web-Dev\\Mission-03-Be-A-NoSQL-Backend-Braniac\\Module-11-How-to-Setup-and-Organize-Your-Project-Professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-10-13-error.log",
+            "hash": "fb8486336067edb8b094bf7ee3129a497892e19339440b7d83177a85d04a5a14"
         }
     ],
     "hashType": "sha256"
